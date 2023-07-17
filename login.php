@@ -17,7 +17,7 @@
         extract($_POST);
         
         if (isset($cadastro)){
-            header('Location:http://127.0.0.1/P.I/cad.php' );
+            header('Location: cad.php' );
         }
     ?>
 </body>
