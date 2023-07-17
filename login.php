@@ -11,7 +11,7 @@
             SENHA: <input type='password' name= 'senha'  ><br>
             <a href="recuperar.php">Esqueceu senha?</a><br><br>
             <input type='submit' name='enviar' value='Acessar' ><br><br>
-            <p>Ainda não tem conta? <a href="cod.php">Cadastre-se</a><br><br></p>
+            <p>Ainda não tem conta? <a href="cad.php">Cadastre-se</a><br><br></p>
             </form>  
     <?php
         extract($_POST);
