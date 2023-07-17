@@ -14,7 +14,7 @@
         <b>E-MAIL: </b> <input name="Email" type="text" ><br><br>
         <input type="submit" value="enviar" name="enviar"> <input type="reset" value="Limpar"><br><br><br>
                 
-        </form>
+    </form>
         
 </body>
 </html>
