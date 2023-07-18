@@ -28,7 +28,10 @@
 
         extract($_POST);
         if (isset($enviar)){
-            
+            $matricula = "SELECT `Matrícula` FROM `discentes`";
+            $password = "ifba."."SELECT `CPF` FROM `discentes`";
+
+            verify($matricula, $password, $usuario, $senha);
         }
     ?>
 </body>
