@@ -23,6 +23,14 @@
 
   }
 
+  Function verify($matricula, $password, $usuario, $senha){
+    if ($usuario == $matricula && $senha == $password){
+        echo "Bem Vindo";
+      }
+    else{
+      echo "Usuário ou senha incorretos";
+    }
+  }
 
   
 ?>
