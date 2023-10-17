@@ -1,4 +1,4 @@
-<!-- html do requerimento -->
+<!-- html do requerimento, sem conexão com o banco -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
